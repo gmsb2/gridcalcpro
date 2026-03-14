@@ -27,4 +27,7 @@
   <!-- Yellow zone boundary -->
   <line x1="20" y1="6" x2="20" y2="26" stroke="#c9a227" stroke-width="1" stroke-dasharray="2,1.5"/>
   <line x1="6" y1="6" x2="27" y2="6" stroke="#c9a227" stroke-width="1" stroke-dasharray="2,1.5"/>
+  <!-- PRO badge -->
+  <rect x="4" y="19.5" width="24" height="10" rx="3" fill="#0d1117" opacity="0.88"/>
+  <text x="16" y="27.5" text-anchor="middle" font-family="'Arial Black', 'Impact', Arial, sans-serif" font-size="8" font-weight="900" fill="#bc8cff" letter-spacing="1.2">PRO</text>
 </svg>
